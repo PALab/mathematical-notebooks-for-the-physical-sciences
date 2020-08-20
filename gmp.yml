@@ -1,4 +1,5 @@
 name: gmp
 channels:
   - defaults
-prefix: /home/kvan637/miniconda3/envs/gmp
+  - conda-forge
+  
